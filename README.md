@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mario Climent Jiménez</h1>
 <h3 align="center">I'm a student from Universidad Politécnica de Valencia, a programmer and a entrepreneur</h3>
 
-- 🔭 I’m currently working on **Last Stand of the Flame**
+- 🔭 I’m currently working on a **Robotics Project**
 
-- 🌱 I’m currently learning **React and C#**
+- 🌱 I’m currently learning **React, Angular, ROS and Python**
 
 - 👨‍💻 All of my projects are available at [https://mariocliment.github.io](https://mariocliment.github.io)
 
